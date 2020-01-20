@@ -45,7 +45,7 @@ new THREE.PerspectiveCamera(
   new THREE.Clock();
 ```
 
-## es6 classes? should you use prototypes?
+## es6 classes? shouldn't you use prototypes?
 
 I like the class syntax! ¬_¬ so sue me... i plan to update this to use typescript and its proper implementation of classes in the future.
 
