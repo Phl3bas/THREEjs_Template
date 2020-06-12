@@ -121,11 +121,11 @@ app.run();
  ```javascript
  // App.js
  
- initRenderer()
- initCamera()
- initRaycaster()
- initScene()
- initClock()
+ _initRenderer()
+ _initCamera()
+ _initRaycaster()
+ _initScene()
+ _initClock()
  
  ```
  
